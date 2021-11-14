@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <clipPath id="bbb">
+            <use xlink:href="#aaa"></use>
+          </clipPath>
+          <path d="M6 12A6 6 0 106 0a6 6 0 000 12z" transform="translate(4 2)" id="aaa"></path>
+        </defs>
+        <g clip-path="url(#bbb)">
+          <use xlink:href="#aaa" fill="none" stroke="currentColor" stroke-width="6"></use>
+        </g>
+        <path fill="currentColor" d="M19.542 18h-3.216a7 7 0 00-12.652 0H.458c1.274-4.057 5.064-7 9.542-7s8.268 2.943 9.542 7z" fill-rule="evenodd"></path>
+      </svg>

@@ -1,0 +1,12 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden ;
+    box-sizing: border-box;
+    background-image: url('img/background_img.png'),url('img/footer.png');
+    background-position: 145% 0%,center 102.5%;
+    background-repeat: no-repeat;
+    background-size: auto,100%;
+
+}
